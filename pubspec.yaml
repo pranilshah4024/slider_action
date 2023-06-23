@@ -1,7 +1,7 @@
 name: slider_action
 description: A simple Slider Action widget for Flutter. It's really customizable and it adapts to your theme.
 version: 1.0.0
-homepage: https://github.com/imtoori/flutter-slide-to-act
+homepage: https://github.com/pranilshah4024/slider_action
 
 environment:
   sdk: ">=3.0.0 <4.0.0"
